@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hey, I'm Aman Sinha
 
-<!--
-**Aman-2721/Aman-2721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 1st Year B.Tech CSE (AI) Student  
+💻 Aspiring Software Developer with AI integration  
+🚀 Currently learning Web Development + Programming  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- 🌱 Learning: C++, DSA, Web Development  
+- 🤖 Interested in: AI + Software Development  
+- 🎯 Goal: Become a skilled developer & build impactful projects  
+- 📍 India  
+
+---
+
+## 🛠️ Tech Stack
+- 💻 Languages: C, C++, JavaScript (Learning), Python, SQL, HTML-CSS
+- 🌐 Web: HTML, CSS  
+- ⚙️ Tools: Git, GitHub, VS Code  
+
+
+---
+
+## 🚀 Projects
+- 🔹 Furniture Website (HTML, CSS, JS)
+- 🔹 Obstacle Detector (Arduino Project)  
+- 🔹 Portfolio
+- 🔹 Management Systems
+- 🔹 ASCII value converter
+- 🔹 Countdowntimer with beep
+- 🔹 Password generator and strength tester
+- 🔹 AI powered study planner
+
+---
+
+## 📫 Connect with Me
+- 💼 LinkedIn: linkedin.com/in/aman-kumar-sinha-851516398
+- 📧 Email: amansinh879@gmail.com
+
+---
+
+✨ *"Consistency beats talent when talent doesn't stay consistent."*
