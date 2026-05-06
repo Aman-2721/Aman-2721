@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Aman Sinha
 
-🎓 1st Year B.Tech CSE (AI) Student  
+🎓 B.Tech CSE (AI) Student  
 💻 Aspiring Software Developer with AI integration  
 🚀 Currently learning Web Development + Programming  
 
